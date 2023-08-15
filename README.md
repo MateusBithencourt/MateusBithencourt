@@ -1,5 +1,5 @@
 
-<img src="https://raw.githubusercontent.com/rzashakeri/rzashakeri/main/intro.gif" alt="👋 Hi there! I'm Mateus" title="👋 Hi there! I'm Mateus"/>
+<img src="#" alt="👋 Hi there! I'm Mateus" title="👋 Hi there! I'm Mateus"/>
 <div align="justify">
 
 <a href="https://www.instagram.com/rzashakeri/">
@@ -29,7 +29,7 @@
 </div>
 <p></p>
 <p align="justify">
-welcome to my GitHub Page. I am Reza Shakeri and now Computer engineering student, I learn new things about programming and teach these things to others, I have been programming for almost more than 10 years and worked with many languages and technologies. Also, inside Instagram, I have a media called <a href="https://www.instagram.com/barnamenevisiinsta">Barnamenevisinsta</a> that shares everything I learn about programming.
+welcome to my GitHub Page. I am Mateus Bithencourt and now Computer engineering student, I learn new things about programming and teach these things to others, I have been programming for almost more than 10 years and worked with many languages and technologies. Also, inside Instagram, I have a media called <a href="https://www.instagram.com/barnamenevisiinsta">Barnamenevisinsta</a> that shares everything I learn about programming.
 
 </p>
 
