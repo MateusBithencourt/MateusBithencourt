@@ -1,5 +1,5 @@
 
-<img src="https://www.youtube.com/shorts/maB9GybdXmI" alt="👋 Hi there! I'm Mateus" title="👋 Hi there! I'm Mateus"/>
+<img src="" alt="👋 Hi there! I'm Mateus" title="👋 Hi there! I'm Mateus"/>
 <div align="justify">
 
 <a href="https://www.instagram.com/rzashakeri/">
