@@ -2,9 +2,10 @@
 <img src="" alt="👋 Hi there! I'm Mateus" title="👋 Hi there! I'm Mateus"/>
 <div align="justify">
 
-<a href="https://instagram.com/mateusbkk?utm_source=qr&igshid=MzNlNGNkZWQ4Mg%3D%3D">
-<img src="https://instagram.com/mateusbkk?utm_source=qr&igshid=MzNlNGNkZWQ4Mg%3D%3D">
+<a href="https://www.instagram.com/rzashakeri/">
+<img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
 </a>
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.twitter.com/rzashakeri/">
 <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white">
