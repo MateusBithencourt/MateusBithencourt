@@ -59,8 +59,10 @@ Welcome to my GitHub Page. I am Mateus Bithencourt and now Computer engineering 
     <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="react"/>
     <br>React
    </td>
-  </tr>
- <tr>
+   <td align="center" width="96">
+    <img src="https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"  width="48" height="48" alt="NodeJs"/>
+    <br>NodeJs
+   </td>
  </tr>
 </table>
 
