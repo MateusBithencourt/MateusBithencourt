@@ -1,5 +1,5 @@
 
-<img src="https://drive.google.com/drive/u/0/my-drive" alt="👋 Hi there! I'm Mateus" title="👋 Hi there! I'm Mateus"/>
+<img src="" alt="👋 Hi there! I'm Mateus" title="👋 Hi there! I'm Mateus"/>
 <div align="justify">
 
 <a href="https://www.instagram.com/rzashakeri/">
