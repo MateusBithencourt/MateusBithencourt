@@ -21,7 +21,7 @@
 </div>
 <p></p>
 <p align="justify">
-Welcome to my GitHub Page. I am Mateus Bithencourt and now Computer engineering student, I learn new things about programming, I have been programming for almost more than 3 months.
+Welcome to my GitHub page. I'm Mateus Bithencourt and now a data analysis and development student, I'm learning new things about programming, I've been programming for almost 3 months now.
 
 </p>
 
