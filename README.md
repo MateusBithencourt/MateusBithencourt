@@ -66,7 +66,7 @@ welcome to my GitHub Page. I am Mateus Bithencourt and now Computer engineering 
       <br>CSS
     </td>
    <td align="center" width="96">
-    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Dark.svg" width="48" height="48" alt="react"/>
+    <img src="./icons/React-Dark.svg" width="48" height="48" alt="react"/>
     <br>React
    </td>
   </tr>
