@@ -60,7 +60,7 @@ Welcome to my GitHub Page. I am Mateus Bithencourt and now Computer engineering 
     <br>React
    </td>
    <td align="center" width="96">
-    <img src="https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"  width="70" height="50" alt="NodeJs"/>
+    <img src="https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"  width="60" height="60" alt="NodeJs"/>
     <br>NodeJs
    </td>
  </tr>
