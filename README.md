@@ -23,6 +23,8 @@
 <p align="justify">
 Welcome to my GitHub page. I'm Mateus Bithencourt and now a data analysis and development student, I'm learning new things about programming, I've been programming for almost 3 months now.
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)
+
 </p>
 
 ## My favorite tools and technologies ⚙️
