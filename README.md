@@ -25,7 +25,7 @@ Welcome to my GitHub page. I'm Mateus Bithencourt and now a data analysis and de
 
 </p>
 
-## My favorite tools and technologies ⚙️
+## My favorite technologies ⚙️
 
 > Tools and technologies that I have worked with and am interested in
 
