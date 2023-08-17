@@ -61,5 +61,3 @@ Welcome to my GitHub page. I'm Mateus Bithencourt and now a data analysis and de
    </td>
  </tr>
 </table>
-
-<img data-target="animated-image.replacedImage" alt="dino.gif" class="AnimatedImagePlayer-animatedImage" src="https://github.com/saadeghi/saadeghi/raw/master/dino.gif" style="display: block; opacity: 1;">
